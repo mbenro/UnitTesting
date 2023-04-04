@@ -1,2 +1,7 @@
-package PACKAGE_NAME;public class MyCalculator {
+public class MyCalculator {
+    public int add(int num1, int num2){
+        return num1+num2;
+    }
 }
+
+
